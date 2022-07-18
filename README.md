@@ -1,4 +1,8 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Divya Mohan</h1>
+<h3 align="center">A UI/UX designer and frontend developer from India.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divya2163&label=Profile%20views&color=0e75b6&style=flat" alt="divya2163" /> </p>
+
 🔭 I’m currently working on UI design of Metoospace, a product of Cheffy Inc<br>🌱 I’m currently learning React, Bootstrap, Tailwind CSS and Photoshop<br>👨‍💻 All of my projects are available at https://dribbble.com/Divya_Mohan<br>📝 I regularly write articles on https://medium.com/@divyamohan6597<br>💬 Ask me about UI/UX and frontend development<br>⚡ Fun fact I am an introvert 😴
 
 [![](https://visitcount.itsvg.in/api?id=Divya2163&icon=0&color=0)](https://visitcount.itsvg.in)
