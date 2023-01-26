@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya2163&label=Profile%20views&color=0e75b6&style=flat" alt="divya2163" /> </p>
 
-🌱 I’m currently learning React, Bootstrap, Tailwind CSS and Photoshop<br>👨‍💻 All of my projects are available at https://dribbble.com/Divya_Mohan<br>📝 I regularly write articles on https://medium.com/@divyamohan6597<br>💬 Ask me about UI/UX and frontend development<br>⚡ Fun fact I am an introvert 😴
+🌱 I’m currently learning React, Bootstrap, Tailwind CSS, Photoshop and after effects.<br>👨‍💻 All of my projects are available at https://dribbble.com/Divya_Mohan<br>📝 I regularly write articles on https://medium.com/@divyamohan6597<br>💬 Ask me about UI/UX and frontend development<br>⚡ Fun fact I am an introvert 😴
 
 
 # Connect with me
