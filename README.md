@@ -1,19 +1,68 @@
-<h1 align="center">Hi 👋, I'm Divya Mohan</h1>
-<h3 align="center">A UI/UX, Graphic designer and frontend developer from India.</h3>
+# Hi, I'm Divya Mohan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divya2163&label=Profile%20views&color=0e75b6&style=flat" alt="divya2163" /> </p>
+Salesforce Developer at Accenture, currently pivoting toward **Forward Deployed Engineering, Agentforce Development, and AI/ML Engineering** roles. Over two years at Accenture, I've worked extensively with Communications and Media Cloud and Industry CPQ on a communications-industry client project, which gave me a deep understanding of the telecom/media domain alongside the platform itself. I've also customized Enterprise Sales Management (ESM), sharpening my grasp of B2B Salesforce features and pushing me to think creatively about configuration trade-offs. Alongside feature work, I've contributed to platform hardening efforts — refactoring legacy code for better performance and a faster, more maintainable platform.
 
-🌱 I’m currently learning React, Bootstrap, Tailwind CSS, Photoshop and after effects.<br>👨‍💻 All of my projects are available at https://dribbble.com/Divya_Mohan<br>📝 I regularly write articles on https://medium.com/@divyamohan6597<br>💬 Ask me about UI/UX and frontend development<br>⚡ Fun fact I am an introvert 😴
+Before moving into Salesforce development, I built a strong foundation in UI/UX and graphic design, working with tools like Figma, Adobe Illustrator, and Photoshop. That background now shapes how I approach Salesforce customization — I think about interface and experience quality, not just functionality.
 
+---
 
-# Connect with me
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/divyamohan21) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/#7835) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/designoutlaw.psd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-mohan-6562491b7) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@divyamohan6597) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/divya_mohan2106) 
+### 🎯 Currently
 
-# Languages and tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+- Building out a themed portfolio of projects that bridge Salesforce engineering and AI/ML
+- Deepening data science / ML fundamentals through self study
 
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Divya2163&theme=dark&hide_border=true" alt="divya2163" /></p>
+---
 
+### 🛠️ Tech Stack
 
+**Salesforce**
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Flows](https://img.shields.io/badge/Flows-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![CPQ](https://img.shields.io/badge/Salesforce%20CPQ-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Vlocity](https://img.shields.io/badge/Vlocity%20%2F%20Industries%20Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
+**AI / ML & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-red?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+**Other**
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-orange?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+### 📜 Certifications
+
+- Salesforce Platform Developer I (PD1)
+- Salesforce AI Associate
+- Salesforce AI Specialist / Agentforce Specialist
+- Copado
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it is |
+|---|---|
+| **HealthGuard AI** | Health Cloud AI Copilot + Patient No-Show ML Pipeline — FastAPI backend, XGBoost model (ROC-AUC ≥ 0.78 target), SHAP explainability, and a 4-topic Agentforce agent |
+| **Apex Lead Scoring Engine** | Native logistic regression scoring for Leads, hand-implemented in Apex (weighted sum → sigmoid), configurable via Custom Metadata, with a per-feature explainability breakdown |
+| **Salesforce Object EDA Engine** | Exploratory data analysis engine for Salesforce objects, built with Streamlit and FastAPI |
+
+---
+
+### 📫 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Divya2163-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Divya2163)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-mohan1/)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/divyamohan21)
