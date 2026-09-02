@@ -56,7 +56,7 @@ Before moving into Salesforce development, I built a strong foundation in UI/UX 
 | Project | What it is |
 |---|---|
 | **HealthGuard AI** | Health Cloud AI Copilot + Patient No-Show ML Pipeline — FastAPI backend, XGBoost model (ROC-AUC ≥ 0.78 target), SHAP explainability, and a 4-topic Agentforce agent |
-| **Apex Lead Scoring Engine** | Native logistic regression scoring for Leads, hand-implemented in Apex (weighted sum → sigmoid), configurable via Custom Metadata, with a per-feature explainability breakdown |
+| [**Apex Lead Scoring Engine**](https://github.com/Divya2163/Apex-Lead-Scoring-Engine) | Native logistic regression scoring for Leads, hand-implemented in Apex (weighted sum → sigmoid), configurable via Custom Metadata, with a per-feature explainability breakdown |
 | **Salesforce Object EDA Engine** | Exploratory data analysis engine for Salesforce objects, built with Streamlit and FastAPI |
 
 ---
